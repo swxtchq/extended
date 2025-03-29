@@ -1,0 +1,72 @@
+/* Стили для body */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* Стили для header */
+header {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Стили для main */
+main {
+    background-color: #ffffff;
+    font-size: 18px;
+    padding: 20px;
+}
+
+/* Стили для ul и li */
+ul {
+    padding: 0;
+}
+
+li {
+    list-style: none;
+} 
+
+}
+
+/* Стили для h1 */
+h1 {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: #333;
+}
+
+/* Стили для p */
+p {
+    line-height: 1.5;
+}
+/* Стили для nav */
+nav {
+    display: inline-block;
+    width: 80%;
+}
+nav img {
+    width: 10%;
+}
+.grid {
+    display: grid;
+    grid-template-columns: 40% 40%;
+}
+.grid {
+    display: grid;
+    grid-template-columns: 40% 40%;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+}
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+/* Стили для footer */
+footer {
+    background-color: #ccc;
+}
+
+
